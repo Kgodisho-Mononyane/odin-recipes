@@ -1,2 +1,2 @@
 # odin-recipes
-This is my first Odin Project exercise. It's a simple website for recipes.
+This is my first Odin Project exercise. It's a simple website for recipes. It' 1 Dec 2022 and as of today i'm using this project to get better and Html and learn the basics of Github commits
