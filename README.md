@@ -1,2 +1,1 @@
-# odin-recipes
-The Odin Project: Recipes.
+The odin recipes is the first project of The Odin Project course and is used to demonstrate my ability to write in HTML
